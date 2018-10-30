@@ -29,7 +29,8 @@ Licencia MIT
   •	GitHub para almacenar el código de la visualización y de los datos usados.
 
 # Cómo se ejecuta
-El proyecto está almacenado en el repositorio de GitHub: https://github.com/yagomezm/DistribucionEstacionesGNCV y para acceder a ver la página principal del proyecto se habilitó el servicio de GitHub Pages al cual se accede desde un navegador digitando el link : https://bit.ly/2Cv4GJh.
+El proyecto está almacenado en el repositorio de GitHub: https://github.com/yagomezm/DistribucionEstacionesGNCV y para acceder a ver la página principal del proyecto se habilitó el servicio de GitHub Pages al cual se accede desde un navegador digitando el link : https://yagomezm.github.io/DistribucionEstacionesGNCV.
+
 
 Este trabajo se basa en el código de Mike Bostock - D3 Force-Directed Graph https://beta.observablehq.com/@mbostock/d3-force-directed-graph
 
