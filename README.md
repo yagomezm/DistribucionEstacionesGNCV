@@ -10,15 +10,22 @@ https://www.datos.gov.co/Estad-sticas-Nacionales/Estaciones-de-Servicio-de-Gas-N
 https://www.datos.gov.co/Mapas-Nacionales/Departamentos-y-municipios-de-Colombia/xdk5-pm3f
 
 Realizado por: Yenny A. Gómez
+
 Curso: Visual Analytics
+
 Licencia MIT
 
 # Tecnologías Usadas
   •	Sqlserver  para el procesamiento, agregación de los datos e integración de datasets.
+  
   •	Herramienta online para convertir csv a json
+  
   •	Sublime Text 3
+  
   •	HTML y CSS
+  
   •	Librería D3.js Versión 5 para la representación de los idioms e interacciones del proyecto.
+  
   •	GitHub para almacenar el código de la visualización y de los datos usados.
 
 # Cómo se ejecuta
